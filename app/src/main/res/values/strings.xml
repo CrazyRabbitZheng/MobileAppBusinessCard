@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_text">Crazy Rabbit</string>
+    <string name="title_text">Junior Developer</string>
+    <string name="cellNumber_text">(777)1234-567</string>
+    <string name="gitHubUrl_text">https://github.com/CrazyRabbitZheng</string>
+    <string name="zuiHuaTingUrl_text">https://www.tolove.ca/forum</string>
+</resources>
